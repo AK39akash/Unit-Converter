@@ -9,7 +9,7 @@ body {
 
 
 #header {
-    background-color: #4040ff;
+    background-color: #3838fb;
     height: 300px;
     padding: 10px;
     color: white;
@@ -30,7 +30,7 @@ h1 {
 #input-el {
     height: 100px;
     width: 100px;
-    background-color: #4040ff;
+    background-color: #3838fb;
     border: 1px solid palevioletred;
     border-radius: 5px;
     font-size: 50px;
